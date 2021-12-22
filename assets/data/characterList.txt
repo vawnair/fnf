@@ -6,6 +6,7 @@ pico
 mom
 mom-car
 bf-car
+gf-car
 parents-christmas
 monster-christmas
 bf-christmas
@@ -15,3 +16,12 @@ bf-pixel
 senpai
 senpai-angry
 spirit
+tankman
+gf-tankmen
+bf-holding-gf
+tankmannoamongus
+tankman-pixel
+pico-pixel
+bf-amogus
+gf-amogus
+amogusguy
